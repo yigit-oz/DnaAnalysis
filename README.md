@@ -1,5 +1,4 @@
-#DnaAnalysis
-
+# DnaAnalysis
 Identification of genes in a strand of dna.
 
 Libraries used for this project:
