@@ -1,4 +1,4 @@
-# DnaAnalysis
+#DnaAnalysis
 
 Identification of genes in a strand of dna.
 
